@@ -1735,7 +1735,9 @@
       "username": "mmm",
       "join": "2026-09-24 17:25",
       "reviews": [],
-      "downloads": {}
+      "downloads": {
+        "Combat Master Mod": 1
+      }
     }
   ]
 }
