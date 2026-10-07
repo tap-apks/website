@@ -2242,7 +2242,9 @@
       "username": "Z,zap",
       "join": "2026-10-07 14:38",
       "reviews": [],
-      "downloads": {}
+      "downloads": {
+        "Combat Master Mod": 1
+      }
     }
   ]
 }
