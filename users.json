@@ -1624,10 +1624,12 @@
     },
     {
       "uid": "1440",
-      "username": "fazzzaggjkok",
-      "join": "2026-09-22 18:26",
+      "username": "Djdhks",
+      "join": "2026-10-16 03:46",
       "reviews": [],
-      "downloads": {}
+      "downloads": {
+        "Sifu Mobile (OFFICIAL)": 2
+      }
     },
     {
       "uid": "2879",
@@ -2758,7 +2760,9 @@
       "username": "Djdhks",
       "join": "2026-10-16 03:46",
       "reviews": [],
-      "downloads": {}
+      "downloads": {
+        "Sifu Mobile (OFFICIAL)": 2
+      }
     }
   ]
 }
